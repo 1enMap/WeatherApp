@@ -4,7 +4,7 @@ Welcome to **WeatherApp**, a modern and aesthetic weather application that provi
 
 ## Project Overview
 
-- **Author**: [RUPAMLAHA-code](https://github.com/RUPAMLAHA-code)
+- **Author**: [1enMap](https://github.com/1enMap)
 - **Tech Stack**: React, Vite, Tailwind CSS, Framer Motion, Lucide React, OpenWeatherMap API
 
 ## Features
@@ -74,7 +74,7 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/RUPAMLAHA-code/WeatherApp.git
+   git clone https://github.com/1enMap/WeatherApp.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -109,8 +109,8 @@ Contributions are welcome! If you have suggestions for improvements or want to a
 
 ## Contact
 
-- **GitHub**: [RUPAMLAHA-code](https://github.com/RUPAMLAHA-code)
-- **Project Repository**: [WeatherApp on GitHub](https://github.com/RUPAMLAHA-code/WeatherApp)
+- **GitHub**: [@1enMap](https://github.com/1enMap)
+- **Project Repository**: [WeatherApp on GitHub](https://github.com/1enMap/WeatherApp)
 
 Enjoy using **WeatherApp** and stay updated with the latest weather conditions in a visually immersive way!
 
